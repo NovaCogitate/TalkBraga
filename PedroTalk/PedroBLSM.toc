@@ -1,0 +1,5 @@
+\babel@toc {english}{}
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{The minimal $\mathrm {U}(1)_{\mathrm {B-L}}$ extension of the SM}{8}{0}{2}
+\beamer@sectionintoc {3}{Results}{16}{0}{3}
+\beamer@sectionintoc {4}{Conclusions and outlook}{25}{0}{4}
